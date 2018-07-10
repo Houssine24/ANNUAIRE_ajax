@@ -1,0 +1,49 @@
+#affichage{
+	margin-top: 100px;
+}
+
+#formulaire{
+	margin-top: 80px;
+	margin-left: 150px;
+}
+
+.navbar{
+	height: 100px;
+	background-color: gray;
+	font-family: 'Russo One', sans-serif;
+}
+
+/*body{
+	background: url(telephone6.jpg);
+	background-repeat: no-repeat;
+	background-size: 1500px;
+}*/
+
+.inFormulaire{
+	font-family: 'Russo One', sans-serif;
+}
+
+.table{
+	margin-top: 150px;
+	font-family: 'Russo One', sans-serif;
+}
+
+.btn-secondary{
+	/*height: 100px;*/
+	margin-left: 450px;
+	font-family: 'Russo One', sans-serif;
+}
+
+.page-footer{
+	margin-top: 150px;
+}
+
+.btn-success{
+	height: 50px;
+	width: 200px;
+}
+
+/*.display{
+	margin-top: 150px;
+}*/
+
